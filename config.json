@@ -1,0 +1,17 @@
+{
+  "interval": 30000,
+  "products":
+  [
+    { "retailer": "amazon", "code": "B06XZZ93FQ", "enabled": true },
+    { "retailer": "amazon", "code": "B06XZQMMHJ", "enabled": true },
+    { "retailer": "amazon", "code": "B06XZRWT8D", "enabled": true },
+    { "retailer": "amazon", "code": "B06Y19NMP3", "enabled": true },
+    { "retailer": "amazon", "code": "B073FCQ29X", "enabled": true },
+    { "retailer": "amazon", "code": "B01J1YUH3U", "enabled": true },
+    { "retailer": "amazon", "code": "B01H2UVHJI", "enabled": true },
+    { "retailer": "amazon", "code": "B01N076O6I", "enabled": true },
+    { "retailer": "amazon", "code": "B01JHQSZ5Y", "enabled": true },
+    { "retailer": "amazon", "code": "B01HEQYQHA", "enabled": true },
+    { "retailer": "amazon", "code": "B01HRIB0V0", "enabled": true }
+  ]
+}

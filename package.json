@@ -1,0 +1,19 @@
+{
+  "name": "now-in-stock-alert",
+  "version": "0.0.1",
+  "description": "Monitor for online retailer websites to see when items come in stock or up for preorder.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/now-in-stock-alert.js"
+  },
+  "author": "Alejandro Claro <alejandro.claro@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "command-line-args": "^5.0.1",
+    "command-line-usage": "^4.1.0",
+    "dom-parser": "^0.1.5",
+    "opn": "^5.2.0",
+    "sound-player": "^1.0.13"
+  }
+}

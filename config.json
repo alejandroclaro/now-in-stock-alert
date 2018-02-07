@@ -12,6 +12,9 @@
     { "retailer": "amazon", "code": "B01N076O6I", "enabled": true },
     { "retailer": "amazon", "code": "B01JHQSZ5Y", "enabled": true },
     { "retailer": "amazon", "code": "B01HEQYQHA", "enabled": true },
-    { "retailer": "amazon", "code": "B01HRIB0V0", "enabled": true }
+    { "retailer": "amazon", "code": "B01HRIB0V0", "enabled": true },
+    { "retailer": "amazon", "code": "B073BX57M1", "enabled": true },
+    { "retailer": "newegg", "code": "9SIA2W06ME7327", "enabled": true },
+    { "retailer": "newegg", "code": "N82E16814131733", "enabled": true }
   ]
 }
